@@ -4,4 +4,4 @@
 <h2>RA: 1290482322002</h2>
 <a href="juros-simples.jsp" >Juros Simples</a> 
 <a href="juros-composto.jsp" >Juros Compostos</a> 
-<<a href="index.jsp" >Inicio</a> 
+<a href="index.jsp" >Inicio</a> 
