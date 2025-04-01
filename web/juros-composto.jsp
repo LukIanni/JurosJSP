@@ -8,6 +8,8 @@
     <body>
         <h1>Juros Compostos</h1>
         <form method="post">
+            <div><%@include file="WEB-INF/jspf/menu.jspf" %></div>
+            <br><br>
             <label for="valor">Capital Inicial (R$): </label>
             <input type="number" id="valor" name="valor" min="0" step=".01" required>
             <br><br>
